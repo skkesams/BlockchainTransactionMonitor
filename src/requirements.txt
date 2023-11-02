@@ -1,0 +1,11 @@
+bitcoin==1.1.39
+blockcypher==1.0.93
+fastapi==0.104.1
+gunicorn==21.2.0
+loguru==0.7.2
+PyMySQL==1.1.0
+PyYAML==6.0.1
+requests==2.31.0
+traceback2==1.4.0
+urllib3==2.0.7
+uvicorn==0.23.2
